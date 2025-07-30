@@ -3,6 +3,6 @@ int main() {
   printf("hello\n");
   printf("world\n");
   printf("!\n");
-  //git create branch is so quickly and simple!
+  //git create branch is so quickly,easy and simple!
   return 0;
 }
